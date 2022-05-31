@@ -1,0 +1,35 @@
+body {
+	background-color: #6ED3CF;
+}
+
+.my-name {
+	color: #000;
+}
+
+.bio {
+	color: #fff;
+}
+
+.contact-me {
+	color: 	#000;
+}
+
+a {
+	color: 	#000;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: 	#fff;
+	text-decoration: none;
+}
+
+.break1{
+	width: 100%;
+	height: 200px;
+}
+
+.break2{
+	width: 100%;
+	height: 20px;
+}
